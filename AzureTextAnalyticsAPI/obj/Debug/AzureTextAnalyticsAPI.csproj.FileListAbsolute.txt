@@ -1,0 +1,11 @@
+E:\Data\All_Projects\AzureTextAnalyticsAPI\AzureTextAnalyticsAPI\bin\AzureTextAnalyticsAPI.dll.config
+E:\Data\All_Projects\AzureTextAnalyticsAPI\AzureTextAnalyticsAPI\bin\AzureTextAnalyticsAPI.dll
+E:\Data\All_Projects\AzureTextAnalyticsAPI\AzureTextAnalyticsAPI\bin\AzureTextAnalyticsAPI.pdb
+E:\Data\All_Projects\AzureTextAnalyticsAPI\AzureTextAnalyticsAPI\bin\System.Net.Http.Formatting.dll
+E:\Data\All_Projects\AzureTextAnalyticsAPI\AzureTextAnalyticsAPI\bin\Newtonsoft.Json.dll
+E:\Data\All_Projects\AzureTextAnalyticsAPI\AzureTextAnalyticsAPI\bin\System.Net.Http.Formatting.xml
+E:\Data\All_Projects\AzureTextAnalyticsAPI\AzureTextAnalyticsAPI\bin\Newtonsoft.Json.xml
+E:\Data\All_Projects\AzureTextAnalyticsAPI\AzureTextAnalyticsAPI\obj\Debug\AzureTextAnalyticsAPI.dll
+E:\Data\All_Projects\AzureTextAnalyticsAPI\AzureTextAnalyticsAPI\obj\Debug\AzureTextAnalyticsAPI.pdb
+E:\Data\All_Projects\AzureTextAnalyticsAPI\AzureTextAnalyticsAPI\bin\Newtonsoft.Json.pdb
+E:\Data\All_Projects\AzureTextAnalyticsAPI\AzureTextAnalyticsAPI\obj\Debug\AzureTextAnalyticsAPI.csprojResolveAssemblyReference.cache
